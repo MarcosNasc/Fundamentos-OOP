@@ -1,0 +1,15 @@
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\bin\Debug\net6.0\Balta.exe
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\bin\Debug\net6.0\Balta.deps.json
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\bin\Debug\net6.0\Balta.runtimeconfig.json
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\bin\Debug\net6.0\Balta.dll
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\bin\Debug\net6.0\ref\Balta.dll
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\bin\Debug\net6.0\Balta.pdb
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\obj\Debug\net6.0\Balta.csproj.AssemblyReference.cache
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\obj\Debug\net6.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\obj\Debug\net6.0\Balta.AssemblyInfoInputs.cache
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\obj\Debug\net6.0\Balta.AssemblyInfo.cs
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\obj\Debug\net6.0\Balta.csproj.CoreCompileInputs.cache
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\obj\Debug\net6.0\Balta.dll
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\obj\Debug\net6.0\ref\Balta.dll
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\obj\Debug\net6.0\Balta.pdb
+C:\Dev\Fundamentos da Orientação a Objetos\Balta\obj\Debug\net6.0\Balta.genruntimeconfig.cache

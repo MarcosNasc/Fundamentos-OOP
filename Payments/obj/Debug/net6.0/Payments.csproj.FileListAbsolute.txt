@@ -1,0 +1,15 @@
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\bin\Debug\net6.0\Payments.exe
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\bin\Debug\net6.0\Payments.deps.json
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\bin\Debug\net6.0\Payments.runtimeconfig.json
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\bin\Debug\net6.0\Payments.dll
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\bin\Debug\net6.0\ref\Payments.dll
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\bin\Debug\net6.0\Payments.pdb
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net6.0\Payments.csproj.AssemblyReference.cache
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net6.0\Payments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net6.0\Payments.AssemblyInfoInputs.cache
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net6.0\Payments.AssemblyInfo.cs
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net6.0\Payments.csproj.CoreCompileInputs.cache
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net6.0\Payments.dll
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net6.0\ref\Payments.dll
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net6.0\Payments.pdb
+C:\Dev\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net6.0\Payments.genruntimeconfig.cache

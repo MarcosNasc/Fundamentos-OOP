@@ -1,0 +1,16 @@
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\bin\Debug\net5.0\Payments.exe
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\bin\Debug\net5.0\Payments.deps.json
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\bin\Debug\net5.0\Payments.runtimeconfig.json
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\bin\Debug\net5.0\Payments.runtimeconfig.dev.json
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\bin\Debug\net5.0\Payments.dll
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\bin\Debug\net5.0\ref\Payments.dll
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\bin\Debug\net5.0\Payments.pdb
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net5.0\Payments.csprojAssemblyReference.cache
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net5.0\Payments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net5.0\Payments.AssemblyInfoInputs.cache
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net5.0\Payments.AssemblyInfo.cs
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net5.0\Payments.csproj.CoreCompileInputs.cache
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net5.0\Payments.dll
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net5.0\ref\Payments.dll
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net5.0\Payments.pdb
+C:\Balta\Fundamentos da Orientação a Objetos\Payments\obj\Debug\net5.0\Payments.genruntimeconfig.cache
